@@ -12,3 +12,7 @@ This is an example of a GitHub repository.
 Very cool!
 Making more edits!
 
+Typing more stuff
+
+Adding more edits
+
